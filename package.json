@@ -1,0 +1,19 @@
+{
+  "name": "gitflow-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresgarcia29/gitflow-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresgarcia29/gitflow-service/issues"
+  },
+  "homepage": "https://github.com/andresgarcia29/gitflow-service#readme"
+}
